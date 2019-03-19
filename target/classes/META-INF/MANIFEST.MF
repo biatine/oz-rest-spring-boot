@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: client-visit-portal
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: EUGENEBIATINGO
+Implementation-Vendor-Id: oz.rest-spring-boot
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/oz-rest-spri
+ ng-boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
